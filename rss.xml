@@ -9,24 +9,10 @@
           <name>Racio</name>
         </author>
         <description>我是描述</description>
-        <language>cn</language>
-        <pubDate>Sun, 09 Mar 2025 02:13:03 +0800</pubDate>
-        <lastBuildDate>Sun, 09 Mar 2025 02:13:03 +0800</lastBuildDate>
+        <language>zh-CN</language>
+        <pubDate>Sun, 09 Mar 2025 01:35:58 +0800</pubDate>
+        <lastBuildDate>Sun, 09 Mar 2025 01:35:58 +0800</lastBuildDate>
         <category term="我是Keywords" />
-        <item>
-            <guid isPermalink="true">https://rrracio.github.io/project/2025/03/09/a-post/</guid>
-            <title>a post</title>
-            <link>https://rrracio.github.io/project/2025/03/09/a-post/</link>
-            <pubDate>Sun, 09 Mar 2025 02:13:03 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://rrracio.github.io/project/2025/03/09/my-blog/</guid>
-            <title>my blog</title>
-            <link>https://rrracio.github.io/project/2025/03/09/my-blog/</link>
-            <pubDate>Sun, 09 Mar 2025 01:37:29 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://rrracio.github.io/project/2025/03/09/hello-world/</guid>
             <title>Hello World</title>

@@ -7,22 +7,6 @@
     "home_page_url": "https://RRRacio.github.io/project",
     "items": [
         {
-            "id": "https://rrracio.github.io/project/2025/03/09/a-post/",
-            "url": "https://rrracio.github.io/project/2025/03/09/a-post/",
-            "title": "a post",
-            "date_published": "2025-03-08T18:13:03.000Z",
-            "content_html": "",
-            "tags": []
-        },
-        {
-            "id": "https://rrracio.github.io/project/2025/03/09/my-blog/",
-            "url": "https://rrracio.github.io/project/2025/03/09/my-blog/",
-            "title": "my blog",
-            "date_published": "2025-03-08T17:37:29.000Z",
-            "content_html": "",
-            "tags": []
-        },
-        {
             "id": "https://rrracio.github.io/project/2025/03/09/hello-world/",
             "url": "https://rrracio.github.io/project/2025/03/09/hello-world/",
             "title": "Hello World",
